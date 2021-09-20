@@ -11,7 +11,7 @@ Other required libraries that are not included in the Anaconda package:
 Every year, Stack Overflow conducts a massive survey of people on the site, covering all sorts of information like programming languages, salary, code style and various other information. This year, they amassed more than 64,000 responses fielded from 213 countries.
 
 By using the [Stack Overflow Data - 2017 Survey](https://www.kaggle.com/stackoverflow/so-survey-2017) data, we try to answer some business questions to better understand the status of the field:
--   What is the gender diversity and gender equality status in the field?
+-   What are the gender diversity and gender equality status in the field?
 -   What is the average salary in each country around the world?
 -   Do people tend to work remotely more the longer they are in the field?
 
@@ -35,7 +35,7 @@ root/
 The "Project1.ipynb" notebook contains all the code and documentation. There are 4 main sections:
 
 -  **Data Understanding:** load the data and have a look at its structure. Then, some relevent columns are visualized for better understanding.
-- **Question 1: What is the gender diversity and gender equality status in the field?:** analysing the data to find insights that can answer the 1st question
+- **Question 1: What are the gender diversity and gender equality status in the field?:** analysing the data to find insights that can answer the 1st question
 - **Question 2: What is the average salary in each country around the world?:** analysing the data to find insights that can answer the 2nd question
 - **Question 3: Do people tend to work remotely more the longer they are in the field?:** analysing the data to find insights that can answer the 3rd question
 
